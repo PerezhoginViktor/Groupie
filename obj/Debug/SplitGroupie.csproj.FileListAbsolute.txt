@@ -1,0 +1,10 @@
+D:\Users\vikto\source\repos\SplitGroupie\bin\Debug\SplitGroupie.exe.config
+D:\Users\vikto\source\repos\SplitGroupie\bin\Debug\SplitGroupie.exe
+D:\Users\vikto\source\repos\SplitGroupie\bin\Debug\SplitGroupie.pdb
+D:\Users\vikto\source\repos\SplitGroupie\obj\Debug\SplitGroupie.csprojAssemblyReference.cache
+D:\Users\vikto\source\repos\SplitGroupie\obj\Debug\SplitGroupie.Form1.resources
+D:\Users\vikto\source\repos\SplitGroupie\obj\Debug\SplitGroupie.Properties.Resources.resources
+D:\Users\vikto\source\repos\SplitGroupie\obj\Debug\SplitGroupie.csproj.GenerateResource.cache
+D:\Users\vikto\source\repos\SplitGroupie\obj\Debug\SplitGroupie.csproj.CoreCompileInputs.cache
+D:\Users\vikto\source\repos\SplitGroupie\obj\Debug\SplitGroupie.exe
+D:\Users\vikto\source\repos\SplitGroupie\obj\Debug\SplitGroupie.pdb

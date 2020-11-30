@@ -1,0 +1,10 @@
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
+start SplitGroupie.exe
